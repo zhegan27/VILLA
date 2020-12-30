@@ -1,0 +1,110 @@
+06/03/2020 00:42:10 - INFO - __main__ -   ***** Running training with 16 GPUs *****
+06/03/2020 00:42:10 - INFO - __main__ -     Num examples = 1102958
+06/03/2020 00:42:10 - INFO - __main__ -     Batch size = 2048
+06/03/2020 00:42:10 - INFO - __main__ -     Accumulate steps = 3
+06/03/2020 00:42:10 - INFO - __main__ -     Num steps = 7000
+06/03/2020 00:51:51 - INFO - __main__ -   82676 examples trained at 142 ex/s
+06/03/2020 01:01:43 - INFO - __main__ -   165366 examples trained at 140 ex/s
+06/03/2020 01:11:05 - INFO - __main__ -   248013 examples trained at 142 ex/s
+06/03/2020 01:20:45 - INFO - __main__ -   330696 examples trained at 142 ex/s
+06/03/2020 01:30:22 - INFO - __main__ -   413327 examples trained at 142 ex/s
+06/03/2020 01:30:22 - INFO - __main__ -   start running validation...
+06/03/2020 01:30:29 - INFO - __main__ -   validation finished in 6 seconds, score: 61.15
+06/03/2020 01:40:06 - INFO - __main__ -   496011 examples trained at 142 ex/s
+06/03/2020 01:50:15 - INFO - __main__ -   578634 examples trained at 141 ex/s
+06/03/2020 01:59:33 - INFO - __main__ -   661298 examples trained at 142 ex/s
+06/03/2020 02:09:11 - INFO - __main__ -   744072 examples trained at 142 ex/s
+06/03/2020 02:18:55 - INFO - __main__ -   826735 examples trained at 142 ex/s
+06/03/2020 02:18:55 - INFO - __main__ -   start running validation...
+06/03/2020 02:19:01 - INFO - __main__ -   validation finished in 5 seconds, score: 66.88
+06/03/2020 02:28:32 - INFO - __main__ -   909326 examples trained at 142 ex/s
+06/03/2020 02:38:12 - INFO - __main__ -   991962 examples trained at 142 ex/s
+06/03/2020 02:47:31 - INFO - __main__ -   1074686 examples trained at 142 ex/s
+06/03/2020 02:54:07 - INFO - __main__ -   finished 1 epochs
+06/03/2020 03:02:00 - INFO - __main__ -   1157553 examples trained at 137 ex/s
+06/03/2020 03:11:17 - INFO - __main__ -   1240087 examples trained at 138 ex/s
+06/03/2020 03:11:17 - INFO - __main__ -   start running validation...
+06/03/2020 03:11:23 - INFO - __main__ -   validation finished in 5 seconds, score: 68.96
+06/03/2020 03:20:55 - INFO - __main__ -   1322679 examples trained at 138 ex/s
+06/03/2020 03:30:11 - INFO - __main__ -   1405236 examples trained at 139 ex/s
+06/03/2020 03:39:24 - INFO - __main__ -   1487823 examples trained at 139 ex/s
+06/03/2020 03:48:58 - INFO - __main__ -   1570365 examples trained at 140 ex/s
+06/03/2020 03:58:45 - INFO - __main__ -   1652948 examples trained at 140 ex/s
+06/03/2020 03:58:45 - INFO - __main__ -   start running validation...
+06/03/2020 03:58:52 - INFO - __main__ -   validation finished in 6 seconds, score: 69.89
+06/03/2020 04:08:22 - INFO - __main__ -   1735504 examples trained at 140 ex/s
+06/03/2020 04:17:47 - INFO - __main__ -   1818114 examples trained at 140 ex/s
+06/03/2020 04:27:27 - INFO - __main__ -   1900731 examples trained at 140 ex/s
+06/03/2020 04:37:03 - INFO - __main__ -   1983285 examples trained at 140 ex/s
+06/03/2020 04:46:16 - INFO - __main__ -   2065857 examples trained at 141 ex/s
+06/03/2020 04:46:16 - INFO - __main__ -   start running validation...
+06/03/2020 04:46:22 - INFO - __main__ -   validation finished in 6 seconds, score: 70.95
+06/03/2020 04:55:50 - INFO - __main__ -   2148431 examples trained at 141 ex/s
+06/03/2020 05:07:12 - INFO - __main__ -   finished 2 epochs
+06/03/2020 05:08:36 - INFO - __main__ -   2231217 examples trained at 139 ex/s
+06/03/2020 05:19:14 - INFO - __main__ -   2313892 examples trained at 139 ex/s
+06/03/2020 05:28:55 - INFO - __main__ -   2396559 examples trained at 139 ex/s
+06/03/2020 05:38:34 - INFO - __main__ -   2479224 examples trained at 139 ex/s
+06/03/2020 05:38:34 - INFO - __main__ -   start running validation...
+06/03/2020 05:38:40 - INFO - __main__ -   validation finished in 5 seconds, score: 71.19
+06/03/2020 05:48:18 - INFO - __main__ -   2561906 examples trained at 139 ex/s
+06/03/2020 05:57:34 - INFO - __main__ -   2644621 examples trained at 139 ex/s
+06/03/2020 06:07:07 - INFO - __main__ -   2727330 examples trained at 139 ex/s
+06/03/2020 06:16:43 - INFO - __main__ -   2809974 examples trained at 139 ex/s
+06/03/2020 06:26:07 - INFO - __main__ -   2892648 examples trained at 140 ex/s
+06/03/2020 06:26:07 - INFO - __main__ -   start running validation...
+06/03/2020 06:26:13 - INFO - __main__ -   validation finished in 6 seconds, score: 71.52
+06/03/2020 06:35:43 - INFO - __main__ -   2975363 examples trained at 140 ex/s
+06/03/2020 06:45:22 - INFO - __main__ -   3058068 examples trained at 140 ex/s
+06/03/2020 06:54:48 - INFO - __main__ -   3140769 examples trained at 140 ex/s
+06/03/2020 07:04:23 - INFO - __main__ -   3223478 examples trained at 140 ex/s
+06/03/2020 07:13:54 - INFO - __main__ -   3306224 examples trained at 140 ex/s
+06/03/2020 07:13:54 - INFO - __main__ -   start running validation...
+06/03/2020 07:14:00 - INFO - __main__ -   validation finished in 6 seconds, score: 72.19
+06/03/2020 07:16:32 - INFO - __main__ -   finished 3 epochs
+06/03/2020 07:23:41 - INFO - __main__ -   3388733 examples trained at 140 ex/s
+06/03/2020 07:33:09 - INFO - __main__ -   3471206 examples trained at 140 ex/s
+06/03/2020 07:42:38 - INFO - __main__ -   3553665 examples trained at 140 ex/s
+06/03/2020 07:52:11 - INFO - __main__ -   3636108 examples trained at 140 ex/s
+06/03/2020 08:01:44 - INFO - __main__ -   3718583 examples trained at 140 ex/s
+06/03/2020 08:01:44 - INFO - __main__ -   start running validation...
+06/03/2020 08:01:50 - INFO - __main__ -   validation finished in 6 seconds, score: 72.32
+06/03/2020 08:11:28 - INFO - __main__ -   3801037 examples trained at 140 ex/s
+06/03/2020 08:20:54 - INFO - __main__ -   3883493 examples trained at 141 ex/s
+06/03/2020 08:30:26 - INFO - __main__ -   3965909 examples trained at 141 ex/s
+06/03/2020 08:40:00 - INFO - __main__ -   4048354 examples trained at 141 ex/s
+06/03/2020 08:49:30 - INFO - __main__ -   4130823 examples trained at 141 ex/s
+06/03/2020 08:49:30 - INFO - __main__ -   start running validation...
+06/03/2020 08:49:36 - INFO - __main__ -   validation finished in 6 seconds, score: 72.61
+06/03/2020 08:59:15 - INFO - __main__ -   4213260 examples trained at 141 ex/s
+06/03/2020 09:08:51 - INFO - __main__ -   4295699 examples trained at 141 ex/s
+06/03/2020 09:18:21 - INFO - __main__ -   4378193 examples trained at 141 ex/s
+06/03/2020 09:24:46 - INFO - __main__ -   finished 4 epochs
+06/03/2020 09:28:03 - INFO - __main__ -   4461074 examples trained at 141 ex/s
+06/03/2020 09:37:37 - INFO - __main__ -   4543816 examples trained at 141 ex/s
+06/03/2020 09:37:37 - INFO - __main__ -   start running validation...
+06/03/2020 09:37:43 - INFO - __main__ -   validation finished in 6 seconds, score: 72.49
+06/03/2020 09:47:27 - INFO - __main__ -   4626601 examples trained at 141 ex/s
+06/03/2020 09:56:57 - INFO - __main__ -   4709347 examples trained at 141 ex/s
+06/03/2020 10:06:41 - INFO - __main__ -   4792124 examples trained at 141 ex/s
+06/03/2020 10:16:08 - INFO - __main__ -   4874893 examples trained at 141 ex/s
+06/03/2020 10:25:40 - INFO - __main__ -   4957659 examples trained at 141 ex/s
+06/03/2020 10:25:40 - INFO - __main__ -   start running validation...
+06/03/2020 10:25:46 - INFO - __main__ -   validation finished in 6 seconds, score: 72.76
+06/03/2020 10:35:19 - INFO - __main__ -   5040483 examples trained at 141 ex/s
+06/03/2020 10:44:56 - INFO - __main__ -   5123234 examples trained at 141 ex/s
+06/03/2020 10:54:25 - INFO - __main__ -   5205928 examples trained at 141 ex/s
+06/03/2020 11:04:04 - INFO - __main__ -   5288692 examples trained at 141 ex/s
+06/03/2020 11:13:38 - INFO - __main__ -   5371475 examples trained at 141 ex/s
+06/03/2020 11:13:38 - INFO - __main__ -   start running validation...
+06/03/2020 11:13:44 - INFO - __main__ -   validation finished in 6 seconds, score: 72.92
+06/03/2020 11:23:33 - INFO - __main__ -   5454312 examples trained at 141 ex/s
+06/03/2020 11:33:03 - INFO - __main__ -   5537189 examples trained at 141 ex/s
+06/03/2020 11:33:13 - INFO - __main__ -   finished 5 epochs
+06/03/2020 11:42:42 - INFO - __main__ -   5619987 examples trained at 141 ex/s
+06/03/2020 11:52:22 - INFO - __main__ -   5702763 examples trained at 141 ex/s
+06/03/2020 12:01:51 - INFO - __main__ -   5785543 examples trained at 141 ex/s
+06/03/2020 12:01:51 - INFO - __main__ -   start running validation...
+06/03/2020 12:01:57 - INFO - __main__ -   validation finished in 6 seconds, score: 72.86
+06/03/2020 12:02:06 - INFO - __main__ -   start running validation...
+06/03/2020 12:02:10 - INFO - __main__ -   validation finished in 3 seconds, score: 72.86
